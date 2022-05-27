@@ -10,3 +10,5 @@
 ### Here keeps all the papers
 * [Evaluating reinforcement learning agents for anatomical landmark detection](https://www.sciencedirect.com/science/article/pii/S1361841518306121?casa_token=Eb7LPZiQEZIAAAAA:BU1WWiBMFazSIZL3Av9iDsXB742sysU1B6j6J259zp_jWu51TfH3H0lKUlwRaeHkB6iU_6ZN)
 > Alansary, Amir, et al. "Evaluating reinforcement learning agents for anatomical landmark detection." Medical image analysis 53 (2019): 156-164.
+
+![image](https://user-images.githubusercontent.com/58562242/170744381-5eb57f0c-404b-4113-9534-63b99ee5abd8.png)
